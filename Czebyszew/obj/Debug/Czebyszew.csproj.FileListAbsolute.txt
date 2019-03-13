@@ -1,0 +1,9 @@
+D:\STUDIA\2019\Pojektowanie_Marta_Gladysiewicz\Czebyszew_C#\Czebyszew\Czebyszew\obj\Debug\Czebyszew.csprojResolveAssemblyReference.cache
+D:\STUDIA\2019\Pojektowanie_Marta_Gladysiewicz\Czebyszew_C#\Czebyszew\Czebyszew\obj\Debug\Czebyszew.Form1.resources
+D:\STUDIA\2019\Pojektowanie_Marta_Gladysiewicz\Czebyszew_C#\Czebyszew\Czebyszew\obj\Debug\Czebyszew.Properties.Resources.resources
+D:\STUDIA\2019\Pojektowanie_Marta_Gladysiewicz\Czebyszew_C#\Czebyszew\Czebyszew\obj\Debug\Czebyszew.csproj.GenerateResource.cache
+D:\STUDIA\2019\Pojektowanie_Marta_Gladysiewicz\Czebyszew_C#\Czebyszew\Czebyszew\obj\Debug\Czebyszew.csproj.CoreCompileInputs.cache
+D:\STUDIA\2019\Pojektowanie_Marta_Gladysiewicz\Czebyszew_C#\Czebyszew\Czebyszew\bin\Debug\Czebyszew.exe
+D:\STUDIA\2019\Pojektowanie_Marta_Gladysiewicz\Czebyszew_C#\Czebyszew\Czebyszew\bin\Debug\Czebyszew.pdb
+D:\STUDIA\2019\Pojektowanie_Marta_Gladysiewicz\Czebyszew_C#\Czebyszew\Czebyszew\obj\Debug\Czebyszew.exe
+D:\STUDIA\2019\Pojektowanie_Marta_Gladysiewicz\Czebyszew_C#\Czebyszew\Czebyszew\obj\Debug\Czebyszew.pdb
